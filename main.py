@@ -1,5 +1,6 @@
 import random
 
+print("Guess A Number Game")
 lower_bound = int(input("Enter a Lower Number"))
 upper_bound =  int(input("Enter a Upper Bound Number"))
 
